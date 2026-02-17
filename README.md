@@ -13,7 +13,9 @@ In regulated Life Sciences, critical quality "deviations" can occur in a lab or 
 1. **Data Engineering (SQL):** Built a dataset mimicking a Veeva Vault QMS environment with unique primary keys for data integrity.
 2. **Automation & Audit (Python):** Developed a Google Colab script to verify risk isolation logic and reduce manager notification time from hours to seconds.
 3. **Business Intelligence:** Deployed the system across Tableau and Power BI to provide executive visibility into compliance health.
+
 Tableau: ![Tableau Dashboard](Tableau_Veeva_Compliance_Scorecard_Final.png)
+
 PowerBI: ![PowerBI Dashboard](Power-BI_Veeva_Compliance_Scorecard_Final.png)
 
 ## ✅ Project Outcomes
